@@ -18,3 +18,5 @@ Non-Maximum Suppression has also been applied after detecting to suppress the ex
 
 
 <div style="text-align:center"><img src="temp/test/a_13_3_2.avi_49.jpeg" /></div>.
+
+``` $ python object_detection.py --im_path = <PATH_TO_IMAGE>```
