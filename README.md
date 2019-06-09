@@ -11,8 +11,8 @@ Humans performing different actions have been detected from scenic images taken 
 
 http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html
 
-![input_image](temp/test)
+![input_image](temp/test/13_3_2.avi_49.jpeg)
 
 Non-Maximum Suppression has also been applied after detecting to suppress the extra bounding boxes.
 
-
+![output_image](temp/test/a_13_3_2.avi_49.jpeg)
